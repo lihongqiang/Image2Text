@@ -1,0 +1,8 @@
+<!doctype html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Result</title>
+<h1>Result</h1>
+{% for result in data['results'] %}
+    <p>概率: {{ result['prob'] }}</p>
+    <p>结果: {{ result['sentence'] }}</p>
+{% endfor %}

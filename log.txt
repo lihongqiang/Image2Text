@@ -1,0 +1,14 @@
+[2017-04-02 21:32:43 +0800] [3328] [INFO] Starting gunicorn 19.3.0
+[2017-04-02 21:32:43 +0800] [3328] [INFO] Listening at: http://127.0.0.1:8000 (3328)
+[2017-04-02 21:32:43 +0800] [3328] [INFO] Using worker: sync
+[2017-04-02 21:32:43 +0800] [3331] [INFO] Booting worker with pid: 3331
+[2017-04-02 21:33:00 +0800] [3328] [INFO] Handling signal: int
+[2017-04-02 21:33:00 +0800] [3331] [INFO] Worker exiting (pid: 3331)
+[2017-04-02 21:33:00 +0800] [3328] [INFO] Shutting down: Master
+[2017-04-02 21:40:38 +0800] [3476] [INFO] Starting gunicorn 19.3.0
+[2017-04-02 21:40:38 +0800] [3476] [INFO] Listening at: http://127.0.0.1:8000 (3476)
+[2017-04-02 21:40:38 +0800] [3476] [INFO] Using worker: sync
+[2017-04-02 21:40:38 +0800] [3479] [INFO] Booting worker with pid: 3479
+[2017-04-02 21:41:57 +0800] [3476] [INFO] Handling signal: int
+[2017-04-02 21:41:57 +0800] [3479] [INFO] Worker exiting (pid: 3479)
+[2017-04-02 21:41:58 +0800] [3476] [INFO] Shutting down: Master
